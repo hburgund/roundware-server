@@ -19,7 +19,7 @@ Done!
 The following instructions describe modifications to the standard upgrade process required due to
 specific changes. Items are listed in reverse chronological order.
 
-## 4/28/16 - Upgrade Django from 1.7 to 1.9
+### 4/28/16 - Upgrade Django from 1.7 to 1.9
 
 The time has come to upgrade Django and other required apps to their newest versions. If you are
 installing Roundware from scratch, there is no need to take extra steps. However, if your
